@@ -1,0 +1,24 @@
+.quotes{
+  border:solid 2px black;
+  border-radius:10%;
+  width:40%;
+  margin-left:auto;
+  margin-right:auto;
+  padding:20px;
+  margin-top:20px;
+  background-color:	#FF7F50
+}
+button{
+  margin-left:20px;
+}
+body{
+  background-color:	#FFB6C1
+}
+#quo{
+  font-family: 'Spirax', cursive;
+  font-size:40px;
+}
+#auth{
+  font-family: 'Indie Flower', cursive;
+  font-size:20px;
+}
